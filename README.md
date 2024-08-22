@@ -1,3 +1,3 @@
 ## Testing Git Sync
 
-Changes made in the first level branch
+Changes made in the second level sub branch by collaborator.
